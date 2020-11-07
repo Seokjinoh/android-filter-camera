@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: /Users/ihyelan/AndroidStudioProjects/OpenCVUse/opencv/java/src/org/opencv/engine/OpenCVEngineInterface.aidl
+ * Original file: D:\\develop\\folked\\new_android_filter_camera\\opencv\\java\\src\\org\\opencv\\engine\\OpenCVEngineInterface.aidl
  */
 package org.opencv.engine;
 /**
